@@ -131,7 +131,8 @@ span.highlight {
 }
 
 video {
-			max-width: 1137px;
+			max-width: 1000px;
 			height: auto;
-			text-align: center；
+			margin: 0 auto;
+			display: block;
 		}
